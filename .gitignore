@@ -42,13 +42,6 @@
 *.ilk
 *.log
 *.pdb
-*CL.command.1.tlog
-*CL.read.1.tlog
-*CL.write.1.tlog
-*.lastbuildstate
-*link.command.1.tlog
-*link.read.1.tlog
-*link.write.1.tlog
 *.txt
 *tlog
 *idb
